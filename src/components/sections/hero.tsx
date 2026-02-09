@@ -21,7 +21,7 @@ export default function Hero() {
       <div className="absolute inset-0 bg-black/60" />
       <div className="relative z-10 container text-center space-y-6">
         <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight drop-shadow-lg">
-          Del Cielo a tu Vida, del Cielo al Mundo.
+        Iglesia Cristiana del Cielo al Mundo
         </h1>
         <p className="max-w-3xl mx-auto text-lg md:text-xl text-neutral-200 drop-shadow-md font-body">
           Más que una iglesia, somos una familia comprometida con la restauración, el amor y la verdad bíblica. Más de 20 años sirviendo en Suba y Mosquera.
@@ -31,15 +31,14 @@ export default function Hero() {
             size="lg"
             className="bg-accent text-accent-foreground hover:bg-accent/90 text-lg py-6 px-8"
           >
-            ¡Planifica tu visita!
+            Ver Horarios
           </Button>
           <Button
             size="lg"
             variant="outline"
             className="text-lg py-6 px-8 bg-transparent border-white text-white hover:bg-white hover:text-black"
           >
-            <Youtube className="mr-2 h-5 w-5" />
-            Ver transmisión en vivo
+            Nuestras Sedes
           </Button>
         </div>
       </div>

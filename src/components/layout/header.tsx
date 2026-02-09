@@ -80,8 +80,8 @@ export default function Header() {
                     className="w-full bg-accent text-accent-foreground hover:bg-accent/90"
                     asChild
                   >
-                    <a href="https://youtube.com" target="_blank" rel="noopener noreferrer">
-                      <Youtube className="mr-2 h-4 w-4" /> Ver en Vivo
+                    <a target="_blank" rel="noopener noreferrer">
+                     Ver Horarios 
                     </a>
                   </Button>
                 </div>
