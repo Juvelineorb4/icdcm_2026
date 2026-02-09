@@ -1,3 +1,52 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-background",
+      "description": "A vibrant church congregation worshiping together with hands raised.",
+      "imageUrl": "https://images.unsplash.com/photo-1742632660743-753720393c7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxjb25ncmVnYXRpb24lMjB3b3JzaGlwfGVufDB8fHx8MTc3MDYwNzY0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "congregation worship"
+    },
+    {
+      "id": "ministry-small-group",
+      "description": "A small group of people studying the Bible together in a cozy home environment.",
+      "imageUrl": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzbWFsbCUyMGdyb3VwfGVufDB8fHx8MTc3MDYwNzY0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "small group"
+    },
+    {
+      "id": "ministry-seminar",
+      "description": "A person intently studying a Bible at a desk.",
+      "imageUrl": "https://images.unsplash.com/photo-1581447109266-0498adb54e6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YmlibGUlMjBzdHVkeXxlbnwwfHx8fDE3NzA1OTE1MTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bible study"
+    },
+    {
+      "id": "ministry-kids",
+      "description": "Happy children playing and learning in a colorful church classroom.",
+      "imageUrl": "https://images.unsplash.com/photo-1621354598022-16599af1b8b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjaGlsZHJlbiUyMHBsYXlpbmd8ZW58MHx8fHwxNzcwNTU4NjcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "children playing"
+    },
+    {
+      "id": "ministry-arts",
+      "description": "A church praise band leading worship on a Sunday morning.",
+      "imageUrl": "https://images.unsplash.com/photo-1623080882579-050db1182f51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjaHVyY2glMjBwcmFpc2V8ZW58MHx8fHwxNzcwNjA3NjQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "church praise"
+    },
+    {
+      "id": "pastor-german-diaz",
+      "description": "Professional portrait of Pastor German Diaz.",
+      "imageUrl": "https://images.unsplash.com/photo-1623366302587-b38b1ddaefd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb3J0cmFpdCUyMG1hbnxlbnwwfHx8fDE3NzA1NDQyMjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "portrait man"
+    },
+    {
+      "id": "pastor-carlos-luna",
+      "description": "Professional portrait of Pastor Carlos Luna.",
+      "imageUrl": "https://images.unsplash.com/photo-1560250097-0b93528c311a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwb3J0cmFpdCUyMG1hbnxlbnwwfHx8fDE3NzA1NDQyMjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "portrait man"
+    },
+    {
+      "id": "pastor-mauricio-romero",
+      "description": "Professional portrait of Pastor Mauricio Romero.",
+      "imageUrl": "https://images.unsplash.com/photo-1715838854648-ea200803934a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cG9ydHJhaXQlMjBtYW58ZW58MHx8fHwxNzcwNTQ0MjI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "portrait man"
+    }
+  ]
 }
