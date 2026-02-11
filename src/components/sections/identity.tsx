@@ -37,7 +37,7 @@ export default function Identity() {
             <div>
               <h3 className="text-2xl font-bold mb-2">Nuestra Visión</h3>
               <p className="text-muted-foreground font-body">
-              se visualiza como un organismo en constante crecimiento; proyectada para la formación permanente y fortalecimiento espiritual de siervos apasionados por la palabra de Dios, a través de sus diferentes frentes de trabajo denominados ministerios que como dice la palabra, forma seres humanos que se mantengan siempre firmes en el enfoque del desarrollo espiritual y servicio voluntario para el cumplimiento de la extensión del Reino de los cielos aquí en la tierra. (1ra Corintios 15:57-58).
+              Se visualiza como un organismo en constante crecimiento; proyectada para la formación permanente y fortalecimiento espiritual de siervos apasionados por la palabra de Dios, a través de sus diferentes frentes de trabajo denominados ministerios que como dice la palabra, forma seres humanos que se mantengan siempre firmes en el enfoque del desarrollo espiritual y servicio voluntario para el cumplimiento de la extensión del Reino de los cielos aquí en la tierra. (1ra Corintios 15:57-58).
               </p>
             </div>
           </div>
