@@ -10,7 +10,7 @@ export default function Identity() {
             ¿Quiénes Somos?
           </h2>
           <p className="text-lg text-muted-foreground font-body">
-            Somos una iglesia Cristo y Bibliocéntrica, guiada por la trinidad divina. Nuestro propósito es conectarte con una vida devocional profunda y construir una relación sólida con tu Creador. Buscamos la restauración de la familia y la formación de líderes de excelencia.
+            Querido lector el propósito de nuestra Iglesia,  es conectarte con una vida devocional profunda en la Palabra de Dios que te permita construir una relación sólida con tu creador, con tu redentor y con tu consolador eterno, además de estrechar vínculos con las personas que profesan tu mismo credo y hacen parte del ministerio del CIELO AL MUNDO. Nuestro interés es verte desarrollando un servicio con excelencia en los diferentes lugares que como persona te has de desempeñar y ver la mano de DIOS en los quehaceres de tu vida.
           </p>
         </div>
 
@@ -24,7 +24,7 @@ export default function Identity() {
             <div>
               <h3 className="text-2xl font-bold mb-2">Nuestra Misión</h3>
               <p className="text-muted-foreground font-body">
-                Ganar almas para Cristo y formar obreros capacitados mediante el vínculo del amor y el servicio al prójimo (Mateo 28:18-20).
+              Somos una iglesia Cristo y Bibliocéntrica, bajo la dirección del PADRE, del HIJO y del ESPIRITU SANTO. Comprometida en el cumplimiento de la Gran Comisión (Mateo 28:18-20), que ganará almas para CRISTO a través de diferentes estrategias de evangelización, promoviendo el bautismo en agua, buscando siempre la restauración de la familia, que se edificará con el fin de formar obreros enteramente capacitados para la obra del Señor, mediante el vinculo del amor y el servicio al prójimo.
               </p>
             </div>
           </div>
@@ -37,7 +37,7 @@ export default function Identity() {
             <div>
               <h3 className="text-2xl font-bold mb-2">Nuestra Visión</h3>
               <p className="text-muted-foreground font-body">
-                Ser un organismo en constante crecimiento, formando siervos apasionados por la Palabra y firmes en el servicio para la extensión del Reino (1 Corintios 15:57-58).
+              se visualiza como un organismo en constante crecimiento; proyectada para la formación permanente y fortalecimiento espiritual de siervos apasionados por la palabra de Dios, a través de sus diferentes frentes de trabajo denominados ministerios que como dice la palabra, forma seres humanos que se mantengan siempre firmes en el enfoque del desarrollo espiritual y servicio voluntario para el cumplimiento de la extensión del Reino de los cielos aquí en la tierra. (1ra Corintios 15:57-58).
               </p>
             </div>
           </div>

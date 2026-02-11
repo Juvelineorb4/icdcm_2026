@@ -33,19 +33,19 @@
     {
       "id": "pastor-german-diaz",
       "description": "Professional portrait of Pastor German Diaz.",
-      "imageUrl": "https://images.unsplash.com/photo-1623366302587-b38b1ddaefd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb3J0cmFpdCUyMG1hbnxlbnwwfHx8fDE3NzA1NDQyMjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "assets/german-diaz.jpg",
       "imageHint": "portrait man"
     },
     {
       "id": "pastor-carlos-luna",
       "description": "Professional portrait of Pastor Carlos Luna.",
-      "imageUrl": "https://images.unsplash.com/photo-1560250097-0b93528c311a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwb3J0cmFpdCUyMG1hbnxlbnwwfHx8fDE3NzA1NDQyMjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "assets/carlos-luna.jpeg",
       "imageHint": "portrait man"
     },
     {
       "id": "pastor-mauricio-romero",
       "description": "Professional portrait of Pastor Mauricio Romero.",
-      "imageUrl": "https://images.unsplash.com/photo-1715838854648-ea200803934a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cG9ydHJhaXQlMjBtYW58ZW58MHx8fHwxNzcwNTQ0MjI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "assets/mauricio-romero.jpeg",
       "imageHint": "portrait man"
     }
   ]

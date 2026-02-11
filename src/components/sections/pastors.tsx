@@ -4,17 +4,17 @@ import { PlaceHolderImages } from "@/lib/placeholder-images";
 
 const pastors = [
   {
-    name: "Pr. German Diaz",
+    name: "Ps. German Diaz",
     title: "Pastor Presidente",
     imageId: "pastor-german-diaz"
   },
   {
-    name: "Pr. Carlos Luna",
+    name: "Ps. Carlos Luna",
     title: "Sede Suba Turingia",
     imageId: "pastor-carlos-luna"
   },
   {
-    name: "Pr. Mauricio Romero",
+    name: "Ps. Mauricio Romero",
     title: "Sede Mosquera",
     imageId: "pastor-mauricio-romero"
   },

@@ -44,14 +44,14 @@ export default function OnlineConnection() {
           ))}
         </div>
 
-        <div className="text-center">
+        {/* <div className="text-center">
           <Button
             size="lg"
             className="bg-accent text-accent-foreground hover:bg-accent/90 text-lg py-6 px-8"
           >
             Unirme a la reunión
           </Button>
-        </div>
+        </div> */}
       </div>
     </section>
   );

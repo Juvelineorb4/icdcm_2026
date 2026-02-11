@@ -12,7 +12,7 @@ import Footer from "@/components/layout/footer";
 export default function Home() {
   return (
     <div className="flex flex-col min-h-screen">
-      <Header />
+      <Header /> {/* Falta agregar mas rutas rapidas*/}
       <main className="flex-1">
         <Hero />
         <Identity />
@@ -21,7 +21,7 @@ export default function Home() {
         <AllMinistries />
         <OnlineConnection />
         <Pastors />
-        <PrayerRequest />
+        {/* <PrayerRequest /> */}
       </main>
       <Footer />
     </div>

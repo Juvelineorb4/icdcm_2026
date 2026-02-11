@@ -15,7 +15,7 @@ const locations = [
     address: "Carrera 15 # 9C-08, El Poblado.",
     pastor: "Mauricio Romero",
     phones: ["310 243 8193", "314 627 9273"],
-    mapLink: "https://maps.google.com/?q=Carrera+15+%23+9C-08,+El+Poblado,+Mosquera"
+    mapLink: "https://www.google.com/maps?q=4.7195478,-74.2298943&z=17&hl=es"
   }
 ];
 
@@ -62,7 +62,7 @@ export default function Locations() {
           ))}
         </div>
 
-        <Card className="bg-primary/10 border-primary/20">
+        <Card id="horarios" className="bg-primary/10 border-primary/20">
           <CardHeader>
             <CardTitle className="flex items-center justify-center text-2xl text-primary">
               <Clock className="mr-3 h-7 w-7" />
@@ -78,7 +78,7 @@ export default function Locations() {
               <div className="w-px h-12 bg-border hidden md:block"></div>
               <div>
                 <p className="font-bold">Domingo</p>
-                <p>9:00 AM - 10:00 AM (Celebración dominical)</p>
+                <p>9:00 AM - 10:00 AM (Culto dominical)</p>
               </div>
             </div>
           </CardContent>

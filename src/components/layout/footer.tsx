@@ -12,15 +12,15 @@ export default function Footer() {
               ICDCM
             </Link>
             <div className="flex space-x-4">
-              <a href="https://youtube.com" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors">
+              <a href="https://www.youtube.com/@icdcm" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors">
                 <Youtube className="h-6 w-6" />
                 <span className="sr-only">Youtube</span>
               </a>
-              <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors">
+              <a href="https://www.facebook.com/share/1CPGmCM5t7/?mibextid=wwXIfr" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors">
                 <Facebook className="h-6 w-6" />
                 <span className="sr-only">Facebook</span>
               </a>
-              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors">
+              <a href="https://www.instagram.com/delcieloalmundo?igsh=MWh3bjkzMzJvdTQ1aw==" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition-colors">
                 <Instagram className="h-6 w-6" />
                 <span className="sr-only">Instagram</span>
               </a>
@@ -28,7 +28,7 @@ export default function Footer() {
           </div>
 
           {/* Column 2: Quick Links */}
-          <div className="space-y-2">
+          {/* <div className="space-y-2">
             <h4 className="font-bold text-white mb-2 font-headline">Enlaces Rápidos</h4>
             <ul className="space-y-2 font-body">
               <li><Link href="#inicio" className="hover:text-accent transition-colors">Inicio</Link></li>
@@ -36,14 +36,13 @@ export default function Footer() {
               <li><Link href="#" className="hover:text-accent transition-colors">Donaciones</Link></li>
               <li><Link href="#" className="hover:text-accent transition-colors">Política de Privacidad</Link></li>
             </ul>
-          </div>
+          </div> */}
 
           {/* Column 3: Contact */}
           <div className="space-y-2">
             <h4 className="font-bold text-white mb-2 font-headline">Contacto General</h4>
             <ul className="space-y-2 font-body">
-              <li><a href="tel:3114442815" className="hover:text-accent transition-colors">311 444 2815</a></li>
-              <li><a href="tel:3002698957" className="hover:text-accent transition-colors">300 269 8957</a></li>
+              <li><a href="mailto:iglesia@delcieloalmundo.org" className="hover:text-accent transition-colors">iglesia@delcieloalmundo.org</a></li>
             </ul>
           </div>
         </div>
